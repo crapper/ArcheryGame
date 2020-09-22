@@ -1,0 +1,1125 @@
+fileFormatVersion: 2
+guid: 8631e331d5389a149b17f216b519da84
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: balcony
+    100002: balcony ceiling
+    100004: balcony columns
+    100006: balcony handrail
+    100008: balcony handrail cylinders
+    100010: Box066
+    100012: Box067
+    100014: Box068
+    100016: Box069
+    100018: Box070
+    100020: Box071
+    100022: Box072
+    100024: Box073
+    100026: Box074
+    100028: Box075
+    100030: Box076
+    100032: Box077
+    100034: Box078
+    100036: Box079
+    100038: Box080
+    100040: Box081
+    100042: Box082
+    100044: Box083
+    100046: Box084
+    100048: Box085
+    100050: Box086
+    100052: Box087
+    100054: Box088
+    100056: Box089
+    100058: Box090
+    100060: Box091
+    100062: Box092
+    100064: Box093
+    100066: Box098
+    100068: Box099
+    100070: Box100
+    100072: Box101
+    100074: Box102
+    100076: Box103
+    100078: Box104
+    100080: Box105
+    100082: Box106
+    100084: Box107
+    100086: Box108
+    100088: Box109
+    100090: Box110
+    100092: Box111
+    100094: Box112
+    100096: Box113
+    100098: Box122
+    100100: Box123
+    100102: Box124
+    100104: Box125
+    100106: Box126
+    100108: Box127
+    100110: Box128
+    100112: Box129
+    100114: Box135
+    100116: Box136
+    100118: Box137
+    100120: Box146
+    100122: Box147
+    100124: Box148
+    100126: Box149
+    100128: Box150
+    100130: Box151
+    100132: Box152
+    100134: Box153
+    100136: Box154
+    100138: Box155
+    100140: Box156
+    100142: Box157
+    100144: Box158
+    100146: Box159
+    100148: cantilever
+    100150: ceiling
+    100152: celing 002
+    100154: celing 1
+    100156: door
+    100158: 'door frame '
+    100160: door frame 001
+    100162: door frame 002
+    100164: door frame 003
+    100166: door frame 004
+    100168: door frame 005
+    100170: door frame 006
+    100172: door frame 007
+    100174: door frame 008
+    100176: door001
+    100178: door002
+    100180: 'font stair '
+    100182: ground column
+    100184: ground column base
+    100186: main beam
+    100188: main body 3
+    100190: main house 1
+    100192: main house 2
+    100194: 'Window '
+    100196: Window 001
+    100198: Window 002
+    100200: Window 003
+    100202: Window 004
+    100204: Window 005
+    100206: Window 006
+    100208: Window 008
+    100210: Window 009
+    100212: Window 010
+    100214: Window 011
+    100216: Window 014
+    100218: Window 015
+    100220: Window 016
+    100222: Window 017
+    100224: Window 018
+    100226: Window 019
+    100228: Window 020
+    100230: Window 021
+    100232: window door
+    100234: window door001
+    100236: window door002
+    100238: window door003
+    100240: window door004
+    100242: window door005
+    100244: window frame 005
+    100246: window frame 006
+    100248: window frame 007
+    100250: window frame 008
+    100252: window frame 009
+    100254: window frame 010
+    100256: window frame 011
+    100258: window frame 012
+    100260: window frame 013
+    100262: window frame 014
+    100264: window frame 015
+    100266: window frame 016
+    100268: window frame 017
+    100270: window frame 018
+    100272: window frame 019
+    100274: window frame 020
+    100276: window frame 021
+    100278: window frame 022
+    100280: window frame 023
+    100282: window frame 024
+    100284: window frame 025
+    100286: window frame 026
+    100288: window frame 027
+    100290: window frame 028
+    100292: window frame 033
+    100294: window frame 034
+    100296: window frame 035
+    100298: window frame 036
+    100300: window frame 037
+    100302: window frame 038
+    100304: window frame 039
+    100306: window frame 040
+    100308: window frame 041
+    100310: window frame 042
+    100312: window frame 043
+    100314: window frame 044
+    100316: window frame 045
+    100318: window frame 046
+    100320: window frame 047
+    100322: window frame 048
+    100324: window frame 057
+    100326: window frame 058
+    100328: window frame 059
+    100330: window frame 060
+    100332: window frame 061
+    100334: window frame 062
+    100336: window frame 063
+    100338: window frame 064
+    100340: window frame 065
+    100342: window frame 066
+    100344: window frame 067
+    100346: window frame 068
+    100348: window frame 069
+    100350: window frame 070
+    100352: window frame 071
+    100354: window frame 072
+    100356: window frame 073
+    100358: window frame 074
+    100360: window frame 075
+    100362: window frame 076
+    100364: window frame 077
+    100366: window frame 078
+    100368: window frame 079
+    100370: window frame 080
+    100372: window frame 081
+    100374: window frame 082
+    100376: window frame 083
+    100378: window frame 084
+    100380: window frame 085
+    100382: window frame 086
+    100384: window frame 087
+    100386: window frame 088
+    100388: window frame 1
+    100390: window frame 2
+    100392: window frame 3
+    100394: window frame 4
+    100396: wood floor 1
+    100398: wood floor 1 base plate
+    100400: wood floor 1 handrail
+    100402: wood floor 1 handrail cylinders
+    100404: wood floor 2
+    100406: wood floor 2 base plate
+    100408: wood floor 2 handrail
+    100410: wood floor 2 handrail cylinder
+    100412: //RootNode
+    400000: balcony
+    400002: balcony ceiling
+    400004: balcony columns
+    400006: balcony handrail
+    400008: balcony handrail cylinders
+    400010: Box066
+    400012: Box067
+    400014: Box068
+    400016: Box069
+    400018: Box070
+    400020: Box071
+    400022: Box072
+    400024: Box073
+    400026: Box074
+    400028: Box075
+    400030: Box076
+    400032: Box077
+    400034: Box078
+    400036: Box079
+    400038: Box080
+    400040: Box081
+    400042: Box082
+    400044: Box083
+    400046: Box084
+    400048: Box085
+    400050: Box086
+    400052: Box087
+    400054: Box088
+    400056: Box089
+    400058: Box090
+    400060: Box091
+    400062: Box092
+    400064: Box093
+    400066: Box098
+    400068: Box099
+    400070: Box100
+    400072: Box101
+    400074: Box102
+    400076: Box103
+    400078: Box104
+    400080: Box105
+    400082: Box106
+    400084: Box107
+    400086: Box108
+    400088: Box109
+    400090: Box110
+    400092: Box111
+    400094: Box112
+    400096: Box113
+    400098: Box122
+    400100: Box123
+    400102: Box124
+    400104: Box125
+    400106: Box126
+    400108: Box127
+    400110: Box128
+    400112: Box129
+    400114: Box135
+    400116: Box136
+    400118: Box137
+    400120: Box146
+    400122: Box147
+    400124: Box148
+    400126: Box149
+    400128: Box150
+    400130: Box151
+    400132: Box152
+    400134: Box153
+    400136: Box154
+    400138: Box155
+    400140: Box156
+    400142: Box157
+    400144: Box158
+    400146: Box159
+    400148: cantilever
+    400150: ceiling
+    400152: celing 002
+    400154: celing 1
+    400156: door
+    400158: 'door frame '
+    400160: door frame 001
+    400162: door frame 002
+    400164: door frame 003
+    400166: door frame 004
+    400168: door frame 005
+    400170: door frame 006
+    400172: door frame 007
+    400174: door frame 008
+    400176: door001
+    400178: door002
+    400180: 'font stair '
+    400182: ground column
+    400184: ground column base
+    400186: main beam
+    400188: main body 3
+    400190: main house 1
+    400192: main house 2
+    400194: 'Window '
+    400196: Window 001
+    400198: Window 002
+    400200: Window 003
+    400202: Window 004
+    400204: Window 005
+    400206: Window 006
+    400208: Window 008
+    400210: Window 009
+    400212: Window 010
+    400214: Window 011
+    400216: Window 014
+    400218: Window 015
+    400220: Window 016
+    400222: Window 017
+    400224: Window 018
+    400226: Window 019
+    400228: Window 020
+    400230: Window 021
+    400232: window door
+    400234: window door001
+    400236: window door002
+    400238: window door003
+    400240: window door004
+    400242: window door005
+    400244: window frame 005
+    400246: window frame 006
+    400248: window frame 007
+    400250: window frame 008
+    400252: window frame 009
+    400254: window frame 010
+    400256: window frame 011
+    400258: window frame 012
+    400260: window frame 013
+    400262: window frame 014
+    400264: window frame 015
+    400266: window frame 016
+    400268: window frame 017
+    400270: window frame 018
+    400272: window frame 019
+    400274: window frame 020
+    400276: window frame 021
+    400278: window frame 022
+    400280: window frame 023
+    400282: window frame 024
+    400284: window frame 025
+    400286: window frame 026
+    400288: window frame 027
+    400290: window frame 028
+    400292: window frame 033
+    400294: window frame 034
+    400296: window frame 035
+    400298: window frame 036
+    400300: window frame 037
+    400302: window frame 038
+    400304: window frame 039
+    400306: window frame 040
+    400308: window frame 041
+    400310: window frame 042
+    400312: window frame 043
+    400314: window frame 044
+    400316: window frame 045
+    400318: window frame 046
+    400320: window frame 047
+    400322: window frame 048
+    400324: window frame 057
+    400326: window frame 058
+    400328: window frame 059
+    400330: window frame 060
+    400332: window frame 061
+    400334: window frame 062
+    400336: window frame 063
+    400338: window frame 064
+    400340: window frame 065
+    400342: window frame 066
+    400344: window frame 067
+    400346: window frame 068
+    400348: window frame 069
+    400350: window frame 070
+    400352: window frame 071
+    400354: window frame 072
+    400356: window frame 073
+    400358: window frame 074
+    400360: window frame 075
+    400362: window frame 076
+    400364: window frame 077
+    400366: window frame 078
+    400368: window frame 079
+    400370: window frame 080
+    400372: window frame 081
+    400374: window frame 082
+    400376: window frame 083
+    400378: window frame 084
+    400380: window frame 085
+    400382: window frame 086
+    400384: window frame 087
+    400386: window frame 088
+    400388: window frame 1
+    400390: window frame 2
+    400392: window frame 3
+    400394: window frame 4
+    400396: wood floor 1
+    400398: wood floor 1 base plate
+    400400: wood floor 1 handrail
+    400402: wood floor 1 handrail cylinders
+    400404: wood floor 2
+    400406: wood floor 2 base plate
+    400408: wood floor 2 handrail
+    400410: wood floor 2 handrail cylinder
+    400412: //RootNode
+    2100000: No Name
+    2100002: 'Material #2'
+    2300000: balcony
+    2300002: balcony ceiling
+    2300004: balcony columns
+    2300006: balcony handrail
+    2300008: balcony handrail cylinders
+    2300010: Box066
+    2300012: Box067
+    2300014: Box068
+    2300016: Box069
+    2300018: Box070
+    2300020: Box071
+    2300022: Box072
+    2300024: Box073
+    2300026: Box074
+    2300028: Box075
+    2300030: Box076
+    2300032: Box077
+    2300034: Box078
+    2300036: Box079
+    2300038: Box080
+    2300040: Box081
+    2300042: Box082
+    2300044: Box083
+    2300046: Box084
+    2300048: Box085
+    2300050: Box086
+    2300052: Box087
+    2300054: Box088
+    2300056: Box089
+    2300058: Box090
+    2300060: Box091
+    2300062: Box092
+    2300064: Box093
+    2300066: Box098
+    2300068: Box099
+    2300070: Box100
+    2300072: Box101
+    2300074: Box102
+    2300076: Box103
+    2300078: Box104
+    2300080: Box105
+    2300082: Box106
+    2300084: Box107
+    2300086: Box108
+    2300088: Box109
+    2300090: Box110
+    2300092: Box111
+    2300094: Box112
+    2300096: Box113
+    2300098: Box122
+    2300100: Box123
+    2300102: Box124
+    2300104: Box125
+    2300106: Box126
+    2300108: Box127
+    2300110: Box128
+    2300112: Box129
+    2300114: Box135
+    2300116: Box136
+    2300118: Box137
+    2300120: Box146
+    2300122: Box147
+    2300124: Box148
+    2300126: Box149
+    2300128: Box150
+    2300130: Box151
+    2300132: Box152
+    2300134: Box153
+    2300136: Box154
+    2300138: Box155
+    2300140: Box156
+    2300142: Box157
+    2300144: Box158
+    2300146: Box159
+    2300148: cantilever
+    2300150: ceiling
+    2300152: celing 002
+    2300154: celing 1
+    2300156: door
+    2300158: 'door frame '
+    2300160: door frame 001
+    2300162: door frame 002
+    2300164: door frame 003
+    2300166: door frame 004
+    2300168: door frame 005
+    2300170: door frame 006
+    2300172: door frame 007
+    2300174: door frame 008
+    2300176: door001
+    2300178: door002
+    2300180: 'font stair '
+    2300182: ground column
+    2300184: ground column base
+    2300186: main beam
+    2300188: main body 3
+    2300190: main house 1
+    2300192: main house 2
+    2300194: 'Window '
+    2300196: Window 001
+    2300198: Window 002
+    2300200: Window 003
+    2300202: Window 004
+    2300204: Window 005
+    2300206: Window 006
+    2300208: Window 008
+    2300210: Window 009
+    2300212: Window 010
+    2300214: Window 011
+    2300216: Window 014
+    2300218: Window 015
+    2300220: Window 016
+    2300222: Window 017
+    2300224: Window 018
+    2300226: Window 019
+    2300228: Window 020
+    2300230: Window 021
+    2300232: window door
+    2300234: window door001
+    2300236: window door002
+    2300238: window door003
+    2300240: window door004
+    2300242: window door005
+    2300244: window frame 005
+    2300246: window frame 006
+    2300248: window frame 007
+    2300250: window frame 008
+    2300252: window frame 009
+    2300254: window frame 010
+    2300256: window frame 011
+    2300258: window frame 012
+    2300260: window frame 013
+    2300262: window frame 014
+    2300264: window frame 015
+    2300266: window frame 016
+    2300268: window frame 017
+    2300270: window frame 018
+    2300272: window frame 019
+    2300274: window frame 020
+    2300276: window frame 021
+    2300278: window frame 022
+    2300280: window frame 023
+    2300282: window frame 024
+    2300284: window frame 025
+    2300286: window frame 026
+    2300288: window frame 027
+    2300290: window frame 028
+    2300292: window frame 033
+    2300294: window frame 034
+    2300296: window frame 035
+    2300298: window frame 036
+    2300300: window frame 037
+    2300302: window frame 038
+    2300304: window frame 039
+    2300306: window frame 040
+    2300308: window frame 041
+    2300310: window frame 042
+    2300312: window frame 043
+    2300314: window frame 044
+    2300316: window frame 045
+    2300318: window frame 046
+    2300320: window frame 047
+    2300322: window frame 048
+    2300324: window frame 057
+    2300326: window frame 058
+    2300328: window frame 059
+    2300330: window frame 060
+    2300332: window frame 061
+    2300334: window frame 062
+    2300336: window frame 063
+    2300338: window frame 064
+    2300340: window frame 065
+    2300342: window frame 066
+    2300344: window frame 067
+    2300346: window frame 068
+    2300348: window frame 069
+    2300350: window frame 070
+    2300352: window frame 071
+    2300354: window frame 072
+    2300356: window frame 073
+    2300358: window frame 074
+    2300360: window frame 075
+    2300362: window frame 076
+    2300364: window frame 077
+    2300366: window frame 078
+    2300368: window frame 079
+    2300370: window frame 080
+    2300372: window frame 081
+    2300374: window frame 082
+    2300376: window frame 083
+    2300378: window frame 084
+    2300380: window frame 085
+    2300382: window frame 086
+    2300384: window frame 087
+    2300386: window frame 088
+    2300388: window frame 1
+    2300390: window frame 2
+    2300392: window frame 3
+    2300394: window frame 4
+    2300396: wood floor 1
+    2300398: wood floor 1 base plate
+    2300400: wood floor 1 handrail
+    2300402: wood floor 1 handrail cylinders
+    2300404: wood floor 2
+    2300406: wood floor 2 base plate
+    2300408: wood floor 2 handrail
+    2300410: wood floor 2 handrail cylinder
+    3300000: balcony
+    3300002: balcony ceiling
+    3300004: balcony columns
+    3300006: balcony handrail
+    3300008: balcony handrail cylinders
+    3300010: Box066
+    3300012: Box067
+    3300014: Box068
+    3300016: Box069
+    3300018: Box070
+    3300020: Box071
+    3300022: Box072
+    3300024: Box073
+    3300026: Box074
+    3300028: Box075
+    3300030: Box076
+    3300032: Box077
+    3300034: Box078
+    3300036: Box079
+    3300038: Box080
+    3300040: Box081
+    3300042: Box082
+    3300044: Box083
+    3300046: Box084
+    3300048: Box085
+    3300050: Box086
+    3300052: Box087
+    3300054: Box088
+    3300056: Box089
+    3300058: Box090
+    3300060: Box091
+    3300062: Box092
+    3300064: Box093
+    3300066: Box098
+    3300068: Box099
+    3300070: Box100
+    3300072: Box101
+    3300074: Box102
+    3300076: Box103
+    3300078: Box104
+    3300080: Box105
+    3300082: Box106
+    3300084: Box107
+    3300086: Box108
+    3300088: Box109
+    3300090: Box110
+    3300092: Box111
+    3300094: Box112
+    3300096: Box113
+    3300098: Box122
+    3300100: Box123
+    3300102: Box124
+    3300104: Box125
+    3300106: Box126
+    3300108: Box127
+    3300110: Box128
+    3300112: Box129
+    3300114: Box135
+    3300116: Box136
+    3300118: Box137
+    3300120: Box146
+    3300122: Box147
+    3300124: Box148
+    3300126: Box149
+    3300128: Box150
+    3300130: Box151
+    3300132: Box152
+    3300134: Box153
+    3300136: Box154
+    3300138: Box155
+    3300140: Box156
+    3300142: Box157
+    3300144: Box158
+    3300146: Box159
+    3300148: cantilever
+    3300150: ceiling
+    3300152: celing 002
+    3300154: celing 1
+    3300156: door
+    3300158: 'door frame '
+    3300160: door frame 001
+    3300162: door frame 002
+    3300164: door frame 003
+    3300166: door frame 004
+    3300168: door frame 005
+    3300170: door frame 006
+    3300172: door frame 007
+    3300174: door frame 008
+    3300176: door001
+    3300178: door002
+    3300180: 'font stair '
+    3300182: ground column
+    3300184: ground column base
+    3300186: main beam
+    3300188: main body 3
+    3300190: main house 1
+    3300192: main house 2
+    3300194: 'Window '
+    3300196: Window 001
+    3300198: Window 002
+    3300200: Window 003
+    3300202: Window 004
+    3300204: Window 005
+    3300206: Window 006
+    3300208: Window 008
+    3300210: Window 009
+    3300212: Window 010
+    3300214: Window 011
+    3300216: Window 014
+    3300218: Window 015
+    3300220: Window 016
+    3300222: Window 017
+    3300224: Window 018
+    3300226: Window 019
+    3300228: Window 020
+    3300230: Window 021
+    3300232: window door
+    3300234: window door001
+    3300236: window door002
+    3300238: window door003
+    3300240: window door004
+    3300242: window door005
+    3300244: window frame 005
+    3300246: window frame 006
+    3300248: window frame 007
+    3300250: window frame 008
+    3300252: window frame 009
+    3300254: window frame 010
+    3300256: window frame 011
+    3300258: window frame 012
+    3300260: window frame 013
+    3300262: window frame 014
+    3300264: window frame 015
+    3300266: window frame 016
+    3300268: window frame 017
+    3300270: window frame 018
+    3300272: window frame 019
+    3300274: window frame 020
+    3300276: window frame 021
+    3300278: window frame 022
+    3300280: window frame 023
+    3300282: window frame 024
+    3300284: window frame 025
+    3300286: window frame 026
+    3300288: window frame 027
+    3300290: window frame 028
+    3300292: window frame 033
+    3300294: window frame 034
+    3300296: window frame 035
+    3300298: window frame 036
+    3300300: window frame 037
+    3300302: window frame 038
+    3300304: window frame 039
+    3300306: window frame 040
+    3300308: window frame 041
+    3300310: window frame 042
+    3300312: window frame 043
+    3300314: window frame 044
+    3300316: window frame 045
+    3300318: window frame 046
+    3300320: window frame 047
+    3300322: window frame 048
+    3300324: window frame 057
+    3300326: window frame 058
+    3300328: window frame 059
+    3300330: window frame 060
+    3300332: window frame 061
+    3300334: window frame 062
+    3300336: window frame 063
+    3300338: window frame 064
+    3300340: window frame 065
+    3300342: window frame 066
+    3300344: window frame 067
+    3300346: window frame 068
+    3300348: window frame 069
+    3300350: window frame 070
+    3300352: window frame 071
+    3300354: window frame 072
+    3300356: window frame 073
+    3300358: window frame 074
+    3300360: window frame 075
+    3300362: window frame 076
+    3300364: window frame 077
+    3300366: window frame 078
+    3300368: window frame 079
+    3300370: window frame 080
+    3300372: window frame 081
+    3300374: window frame 082
+    3300376: window frame 083
+    3300378: window frame 084
+    3300380: window frame 085
+    3300382: window frame 086
+    3300384: window frame 087
+    3300386: window frame 088
+    3300388: window frame 1
+    3300390: window frame 2
+    3300392: window frame 3
+    3300394: window frame 4
+    3300396: wood floor 1
+    3300398: wood floor 1 base plate
+    3300400: wood floor 1 handrail
+    3300402: wood floor 1 handrail cylinders
+    3300404: wood floor 2
+    3300406: wood floor 2 base plate
+    3300408: wood floor 2 handrail
+    3300410: wood floor 2 handrail cylinder
+    4300000: main house 1
+    4300002: wood floor 1
+    4300004: wood floor 1 handrail
+    4300006: wood floor 1 handrail cylinders
+    4300008: wood floor 1 base plate
+    4300010: balcony
+    4300012: balcony handrail
+    4300014: balcony handrail cylinders
+    4300016: balcony ceiling
+    4300018: Box137
+    4300020: Box136
+    4300022: Box135
+    4300024: balcony columns
+    4300026: ground column
+    4300028: ground column base
+    4300030: main body 3
+    4300032: main house 2
+    4300034: wood floor 2
+    4300036: wood floor 2 handrail
+    4300038: wood floor 2 handrail cylinder
+    4300040: wood floor 2 base plate
+    4300042: 'font stair '
+    4300044: 'Window '
+    4300046: window frame 1
+    4300048: window frame 2
+    4300050: window frame 3
+    4300052: window frame 4
+    4300054: Box067
+    4300056: Box068
+    4300058: Box069
+    4300060: Box066
+    4300062: Window 001
+    4300064: Box070
+    4300066: Box071
+    4300068: Box072
+    4300070: Box073
+    4300072: window frame 005
+    4300074: window frame 006
+    4300076: window frame 007
+    4300078: window frame 008
+    4300080: Window 002
+    4300082: Box074
+    4300084: Box075
+    4300086: Box076
+    4300088: Box077
+    4300090: window frame 009
+    4300092: window frame 010
+    4300094: window frame 011
+    4300096: window frame 012
+    4300098: Window 003
+    4300100: Box078
+    4300102: Box079
+    4300104: Box080
+    4300106: Box081
+    4300108: window frame 013
+    4300110: window frame 014
+    4300112: window frame 015
+    4300114: window frame 016
+    4300116: Window 004
+    4300118: Box082
+    4300120: Box083
+    4300122: Box084
+    4300124: Box085
+    4300126: window frame 017
+    4300128: window frame 018
+    4300130: window frame 019
+    4300132: window frame 020
+    4300134: Window 005
+    4300136: Box086
+    4300138: Box087
+    4300140: Box088
+    4300142: Box089
+    4300144: window frame 021
+    4300146: window frame 022
+    4300148: window frame 023
+    4300150: window frame 024
+    4300152: Window 006
+    4300154: Box090
+    4300156: Box091
+    4300158: Box092
+    4300160: Box093
+    4300162: window frame 025
+    4300164: window frame 026
+    4300166: window frame 027
+    4300168: window frame 028
+    4300170: Window 008
+    4300172: Box098
+    4300174: Box099
+    4300176: Box100
+    4300178: Box101
+    4300180: window frame 033
+    4300182: window frame 034
+    4300184: window frame 035
+    4300186: window frame 036
+    4300188: Window 009
+    4300190: Box102
+    4300192: Box103
+    4300194: Box104
+    4300196: Box105
+    4300198: window frame 037
+    4300200: window frame 038
+    4300202: window frame 039
+    4300204: window frame 040
+    4300206: Window 010
+    4300208: Box106
+    4300210: Box107
+    4300212: Box108
+    4300214: Box109
+    4300216: window frame 041
+    4300218: window frame 042
+    4300220: window frame 043
+    4300222: window frame 044
+    4300224: Window 011
+    4300226: Box110
+    4300228: Box111
+    4300230: Box112
+    4300232: Box113
+    4300234: window frame 045
+    4300236: window frame 046
+    4300238: window frame 047
+    4300240: window frame 048
+    4300242: door
+    4300244: 'door frame '
+    4300246: door frame 001
+    4300248: door frame 002
+    4300250: door001
+    4300252: door frame 003
+    4300254: door frame 004
+    4300256: door frame 005
+    4300258: door002
+    4300260: door frame 006
+    4300262: door frame 007
+    4300264: door frame 008
+    4300266: Window 014
+    4300268: Box122
+    4300270: Box123
+    4300272: Box124
+    4300274: Box125
+    4300276: window frame 057
+    4300278: window frame 058
+    4300280: window frame 059
+    4300282: window frame 060
+    4300284: Window 015
+    4300286: Box126
+    4300288: Box127
+    4300290: Box128
+    4300292: Box129
+    4300294: window frame 061
+    4300296: window frame 062
+    4300298: window frame 063
+    4300300: window frame 064
+    4300302: Window 016
+    4300304: window frame 065
+    4300306: window frame 066
+    4300308: window frame 067
+    4300310: window frame 068
+    4300312: window door001
+    4300314: window door
+    4300316: cantilever
+    4300318: main beam
+    4300320: ceiling
+    4300322: celing 1
+    4300324: celing 002
+    4300326: Window 017
+    4300328: window frame 069
+    4300330: window frame 070
+    4300332: window frame 071
+    4300334: window frame 072
+    4300336: window door003
+    4300338: Box146
+    4300340: Box147
+    4300342: window door002
+    4300344: Window 018
+    4300346: window frame 073
+    4300348: window frame 074
+    4300350: window frame 075
+    4300352: window frame 076
+    4300354: window door004
+    4300356: window door005
+    4300358: Window 019
+    4300360: Box148
+    4300362: Box149
+    4300364: Box150
+    4300366: Box151
+    4300368: window frame 077
+    4300370: window frame 078
+    4300372: window frame 079
+    4300374: window frame 080
+    4300376: Window 020
+    4300378: Box152
+    4300380: Box153
+    4300382: Box154
+    4300384: Box155
+    4300386: window frame 081
+    4300388: window frame 082
+    4300390: window frame 083
+    4300392: window frame 084
+    4300394: Window 021
+    4300396: Box156
+    4300398: Box157
+    4300400: Box158
+    4300402: Box159
+    4300404: window frame 085
+    4300406: window frame 086
+    4300408: window frame 087
+    4300410: window frame 088
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
